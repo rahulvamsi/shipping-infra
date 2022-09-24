@@ -3,7 +3,7 @@ ENV       = "prod"
 
 INSTANCES = {
   SPOT = {
-    instance_count =
+    instance_count = 0
     instance_type  = "t3.micro"
   }
   ONDEMAND = {
