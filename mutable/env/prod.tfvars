@@ -8,7 +8,7 @@ INSTANCES = {
   }
   ONDEMAND = {
     instance_count = 0
-    instance_type  = "t3.micro"
+    instance_type  = "t3.medium"
   }
 }
 
